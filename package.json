@@ -1,0 +1,16 @@
+{
+  "name": "mybookstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Akshay Raul",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser":"*",
+    "express":"*",
+    "mongoose":"*"
+  }
+}
